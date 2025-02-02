@@ -1,0 +1,105 @@
+site_name: co_migration_poster_QR_code
+site_description: 'A package for Adaptive Spatio-Temporal Model (AdaSTEM) in python.'
+repo_name: 'chenyangkang/co_migration_poster_QR_code'
+repo_url: 'https://github.com/chenyangkang/co_migration_poster_QR_code'
+site_url: https://chenyangkag.github.io/co_migration_poster_QR_code/
+use_directory_urls: false
+
+theme:
+  name: material
+  icon:
+      repo: 'fontawesome/brands/github'
+  features:
+    - toc.follow
+    # - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - search.share
+    - navigation.indexes
+
+
+
+  language: en
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      accent: light green
+      primary: green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      accent: light green
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  font:
+    text: Roboto
+
+plugins:
+  - social
+  - mkdocs-jupyter
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            # inherited_members: true
+            docstring_style: google
+            docstring_section_style: list
+            # show_object_full_path: true
+            # show_root_full_path: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/chenyangkang
+    # - icon: fontawesome/brands/twitter
+    #   link: https://twitter.com/TheJamesWillett
+    # - icon: fontawesome/brands/linkedin
+    #   link: https://www.linkedin.com/in/willettjames/
+
+
+nav:
+  - Home: index.md
+
+  # - Download mini data: mini_data/mini_data.csv
+
+markdown_extensions:
+  - tables
+  # - toc:
+  #     toc_depth : "1-1"
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji
+      # emoji_index: !!python/name:materialx.emoji.twemoji
+      # emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.tilde
+
+# extra_css:
+#   - css/extra.css
+
+
+copyright: |
+  &copy; 2025 <a href="https://github.com/chenyangkang"  target="_blank" rel="noopener">Yangkang Chen</a>

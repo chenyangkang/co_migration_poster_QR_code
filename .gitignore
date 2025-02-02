@@ -1,0 +1,13 @@
+.DS_Store
+*.cache
+*/dataset/test_data/*
+*.csv
+!*/mini_data/*
+*.txt
+*/__pycache__/*
+__pycache__/*
+*.DS_Store
+*.docx
+*/references/*
+.github/workflows/publish-pypi.yml
+**__pycache__**
