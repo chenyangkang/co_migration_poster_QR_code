@@ -54,6 +54,13 @@ Interaction explained by morphology
 
 -----
 
+
+Interaction explained by diet
+
+![Interaction_explained_by_diet](https://chenyangkang.github.io/co_migration_poster_QR_code/assets/Interaction_explained_by_diet.pdf)
+
+-----
+
 Interaction explained by range overlap (overlap coefficient)
 
 ![Interaction_explained_by_range_overlap_by_overlap_coefficient](https://chenyangkang.github.io/co_migration_poster_QR_code/assets/Interaction_explained_by_range_overlap_by_overlap_coefficient.pdf)
