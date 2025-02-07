@@ -79,6 +79,7 @@ Modeling framework
 
 ![Modeling](https://chenyangkang.github.io/co_migration_poster_QR_code/assets/Modeling.pdf)
 
+![Modeling](https://chenyangkang.github.io/co_migration_poster_QR_code/assets/Interaction_explained.pdf)
 
 -----
 
