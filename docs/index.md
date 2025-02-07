@@ -5,10 +5,11 @@
 The interaction between American Redstart and Magnolia Warbler:
 
 
-![Interaction](https://chenyangkang.github.io/co_migration_poster_QR_code/assets/Interaction_American_Redstart_AND_Magnolia_Warbler.pred.gif)
+![Interaction_with_sig](https://chenyangkang.github.io/co_migration_poster_QR_code/assets/Interaction_American_Redstart_AND_Magnolia_Warbler.pred.gif)
 
+![Interaction_no_sig](https://chenyangkang.github.io/co_migration_poster_QR_code/assets/Interaction_no_sample_weights_inner_calibrator_outer_calibrator.pred.gif)
 
-![Interaction](https://chenyangkang.github.io/co_migration_poster_QR_code/assets/Interaction_American_Redstart_AND_Magnolia_Warbler_interaction_strength_whole_year_plot_no_filter.pdf)
+![Interaction_averaged](https://chenyangkang.github.io/co_migration_poster_QR_code/assets/Interaction_American_Redstart_AND_Magnolia_Warbler_interaction_strength_whole_year_plot_no_filter.pdf)
 
 -----
 
